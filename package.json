@@ -1,0 +1,25 @@
+{
+  "name": "cliappendix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index",
+    "start:dev":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeka2021/cliAppendix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeka2021/cliAppendix/issues"
+  },
+  "homepage": "https://github.com/zeka2021/cliAppendix#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
