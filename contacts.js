@@ -1,5 +1,5 @@
-const fs = reguire('fs').promises;
-const path = reguire('path');
+const fs = require('fs/promises');
+const path = require('path');
 
 const contactsPath = path.join(__dirname, './db/contacts.json');
 
